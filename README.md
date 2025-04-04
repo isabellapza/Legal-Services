@@ -11,8 +11,6 @@ Bienvenido al sitio web oficial de **Multiservicios USA**, un negocio dedicado a
 - 🟢 Trámites de Visa  
 - 🟢 TPS (Estatus de Protección Temporal)  
 - 🟢 Residencia Permanente  
-- 🟢 Cursos: Impact Texas Drivers + certificado  
-- 🟢 Certificación de educación vial en Texas  
 - 🟢 Programación de citas en la oficina del DPS (incluye Test Drive)
 
 ---
